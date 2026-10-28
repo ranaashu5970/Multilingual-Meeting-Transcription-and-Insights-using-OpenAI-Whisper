@@ -1,11 +1,7 @@
+venv/
+.venv/
 __pycache__/
 *.py[cod]
-*$py.class
-*.egg-info
-.pytest_cache
-.ipynb_checkpoints
-
-thumbs.db
-.DS_Store
-.idea
-
+openai_whisper.egg-info/
+.env
+.ipynb_checkpoints/
